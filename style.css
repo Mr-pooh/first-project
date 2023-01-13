@@ -1,0 +1,7 @@
+.first {
+    background-color: blueviolet;
+    color: aqua;
+    transform: scale(1.1);
+    font-weight: 15px;
+    font-size: 120px;
+}
