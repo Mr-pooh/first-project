@@ -5,3 +5,12 @@
     font-weight: 15px;
     font-size: 120px;
 }
+
+.font-title {
+    size: 23px;
+    display: text;
+    background-color: rgb(207, 9, 9);
+    
+    height: 150px;
+    
+}
